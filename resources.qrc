@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/open_file.png</file>
+        <file>icons/zoom_to.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/about.png</file>
+        <file>icons/mandible.png</file>
+        <file>icons/maxilla.png</file>
+        <file>icons/mandible_loaded.png</file>
+        <file>icons/maxilla_loaded.png</file>
+        <file>icons/mandible_hide.png</file>
+        <file>icons/maxilla_hide.png</file>
+        <file>icons/ref_points.png</file>
+        <file>icons/save.png</file>
+        <file>icons/curvatures.png</file>
+        <file>icons/move.png</file>
+        <file>icons/restore.png</file>
+    </qresource>
+</RCC>
